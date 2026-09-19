@@ -1,67 +1,83 @@
-# ⚡️ <samp>nullcove</samp>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1D1&center=true&vCenter=true&width=435&lines=Software+Architect;Cybersecurity+Enthusiast;Automation+Wizard;Operating+in+the+Shadows" alt="Typing SVG" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner.svg">
+  <img src="docs/assets/banner.svg" alt="nullcove - Software Architect, Cybersecurity Enthusiast, Automation Wizard" width="100%">
+</picture>
 
----
+<br>
 
-<!-- 
-### 🌑 <samp>The Shadow Realm</samp>
+**nullcove**
 
-Operating at the intersection of architecture and invisibility. Building systems that are as robust as they are silent.
+The name I keep for the security and automation side of the work.
 
-```bash
-$ whoami
-nullcove
-$ curl -s https://nullcove.com/status
-{
-  "status": "Online",
-  "mode": "Stealth",
-  "location": "Bangladesh",
-  "focus": ["Arch Linux", "Automation", "Security"]
-}
-```
--->
+<br>
 
-### 📊 <samp>Activity Metrics</samp>
+![Status](https://img.shields.io/badge/status-active-00d1d1?style=flat-square)
+![Focus](https://img.shields.io/badge/focus-security%20%2F%20automation-5b8cff?style=flat-square)
+![Based in](https://img.shields.io/badge/based%20in-Dhaka%2C%20Bangladesh-8b5cf6?style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nullcove&theme=react-dark&bg_color=000000&color=00D1D1&line=00D1D1&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nullcove&show_icons=true&theme=dark&bg_color=000000&title_color=00D1D1&text_color=FFFFFF&icon_color=00D1D1" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nullcove&theme=dark&background=000000&stroke=00D1D1&ring=00D1D1&fire=00D1D1&currStreakLabel=00D1D1" />
-</p>
+</div>
 
 ---
 
-### 🛡 <samp>Arsenal</samp>
+## What this is
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+A home for the nullcove identity - the banner, the project index, and the automation that keeps the profile graphics on my GitHub page current.
+
+The work itself lives in my main account: **[github.com/aizenrexx](https://github.com/aizenrexx)**.
 
 ---
 
-### 🐍 <samp>Contribution Evolution</samp>
+## What I work on
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nullcove/nullcove/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+| Area | What that means in practice |
+|:---|:---|
+| **Windows tooling** | Native C# and .NET applications - a search engine that reads the NTFS Master File Table directly, a folder switcher that journals every write |
+| **Security** | Password managers, secrets handling, and building things so they fail loudly instead of silently |
+| **Automation** | Scripts and pipelines that remove the manual step, with a log of what they did |
+| **Full-stack** | React and Next.js over Express and PostgreSQL, wired end to end |
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullcove&layout=compact&theme=dark&bg_color=000000&title_color=00D1D1&text_color=FFFFFF" />
-</p>
+## Projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nullcove&color=00D1D1&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+| Project | What it is |
+|:---|:---|
+| [**AizenRex Search-man**](https://github.com/aizenrexx/AizenRex-Search-man) | Ultra-fast native Windows file search built on the NTFS Master File Table |
+| [**AizenRex Steam Switcher**](https://github.com/aizenrexx/AizenRex-Steam-Switcher) | Manage two Steam installations and switch between them safely |
+| [**Link Haven**](https://github.com/aizenrexx/link-haven) | Full-stack bookmark manager with AI search and a command palette |
+| [**Proton Pass**](https://github.com/aizenrexx/proton-pass) | Full-featured password manager clone with a security centre |
+| [**Smart Ins-Note**](https://github.com/aizenrexx/smart-ins-note) | Notes app with an AI assistant and persistent memory |
+| [**Amar Hisab**](https://github.com/aizenrexx/ledger-knox) | Personal accounting and expense tracker |
 
+---
+
+## The contribution graph
+
+The animated contribution snake below is generated by a scheduled workflow in this repository and published to the `output` branch, so it stays current without anyone touching it.
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aizenrexx/nullcove/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aizenrexx/nullcove/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/aizenrexx/nullcove/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" width="100%">
+</picture>
+
+---
+
+## Contact
+
+<div align="center">
+
+|  |  |
+|:---|:---|
+| **Main account** | [github.com/aizenrexx](https://github.com/aizenrexx) |
+| **Also known as** | Aizenrex x Riyad |
+| **Based in** | Dhaka, Bangladesh |
+
+<br>
+
+<i>Build it so it survives the crash.</i>
+
+</div>
